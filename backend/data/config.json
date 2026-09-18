@@ -1,0 +1,7 @@
+{
+  "chunk_size": 500,
+  "overlap": 50,
+  "embedding_model": "all-MiniLM-L6-v2",
+  "collection_name": "ml_documents",
+  "total_chunks": 982
+}

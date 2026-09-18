@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+*.log
+data/raw/
+backend/data/vector_store/
+.pytest_cache/
+*.ipynb_checkpoints
